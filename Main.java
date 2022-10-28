@@ -8,6 +8,7 @@ public class Main {
 		
 		JFrame frame = new JFrame();
 		
+		frame.setTitle("Veckokalender Java22");
 		frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
